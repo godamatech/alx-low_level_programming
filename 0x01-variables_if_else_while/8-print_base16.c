@@ -7,12 +7,8 @@
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
-	int low;
-
-	for (low = 'z'; low >= 'a'; low--)
-		putchar(low);
-
 	return (0);
 }
