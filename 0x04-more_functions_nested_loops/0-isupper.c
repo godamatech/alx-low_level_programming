@@ -9,9 +9,6 @@
 
 int _isupper(int c)
 {
-	char uppercase = 'A';
-	int isupper = 0;
-
 	if ( c >= 'A' && c <= 'Z')
 	{
 		return (1);
